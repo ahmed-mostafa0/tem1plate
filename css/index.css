@@ -234,7 +234,7 @@ header nav .form i {
 .landing {
 	min-height: 100vh;
 	background-color: rgb(6, 38, 55);
-	background-image: url(/images/wlLand.jpg);
+	background-image: url("E:\coding\templte one\images\land.jpg");
 	background-size: cover;
 	position: relative;
 }
